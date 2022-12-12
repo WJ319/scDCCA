@@ -4,7 +4,7 @@ We present a new deep contrastive clustering algorithm (scDCCA). scDCCA extracts
 See details in our paper: "scDCCA: Deep contrastive clustering for single-cell RNA-seq data based on auto-encoder network". 
 
 Quick start:  
-Download the dataset from the website as the paper described, and download the code files in this repository and import functions in them.  
+Download the datasets from the website as the paper described, and download the code files in this repository and import functions in them.  
 1.Preprocess datasets  
 scDCCA takes preprocessed data as input. Single cell data preprocessing can be done with preprocessing data.r and select 2000 highly genes.py.  
 2.Run scDCCA algorithm with mymodel.py. 
